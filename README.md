@@ -1,3 +1,4 @@
+## This fork exists only to have an up-to-date version of Travis-Cov on NPM!
 ## travis-cov
 
 A coverage reporter for [Mocha](http://visionmedia.github.com/mocha/)/[Blanket](http://blanketjs.org/) that will fail a [travis-ci](https://travis-ci.org/) build when the coverage threshold is too low.
